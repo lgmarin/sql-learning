@@ -7,3 +7,4 @@ CREATE TABLE student_2 (
 
 
 -- autoincrement the value of the PRIMARY key
+INSERT INTO student(name, major) VALUES ('jack', 'biology')
